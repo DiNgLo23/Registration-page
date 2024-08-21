@@ -1,0 +1,135 @@
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(fonts/Poppins-Black.ttf);
+}
+.name {
+    font-family: 'Poppins';
+    font-size: 1.5em;
+    position: absolute;
+    border-radius: 4px;
+    left:80px;
+    top: 100px;
+    width:320px;
+    height: 40;
+    border: 1px solid #c2c2c2;
+}
+
+.password{
+    font-family: 'Poppins';
+    font-size: 1.5em;
+    position: absolute;
+    border-radius: 4px;
+    left:80px;
+    top: 150px;
+    width:320px;
+    height: 40;
+    border: 1px solid #c2c2c2;
+}
+
+
+
+
+.send{
+    font-size: 1.3em;
+    color: #F8F8FF;
+    position: absolute;
+    border-radius: 9px;
+    left: 170px;
+    top:250px;
+    background-color: #26527C;
+    width: 150px;
+    border: 0.1em solid #26527C;
+
+
+}
+
+.wind_reg{
+
+    position: absolute;
+    background-color: #FFFAFA;
+    width: 500px;
+    height: 400px;
+    left:690px;
+    top:200px;
+    border: 1px solid #c2c2c2;
+    border-radius: 4px;
+    box-shadow: 1px 4px 50px rgba(0, 0, 0, 0.24), 2px 4px 8px rgba(0, 0, 0, 0.2);
+
+
+}
+
+.sign{
+    font-family: 'Poppins'; 
+    font-weight: 10;
+    font-size:1.5em;
+    position: absolute;
+    left:200px;
+    top:20px;
+
+}
+
+body{
+    background-color: #F8F8FF;
+
+
+}
+
+.agree_reg{
+    font-family: 'Poppins'; 
+    font-weight: 10;
+    font-size:1em;
+    position: absolute;
+    left:95px;
+    top:207px;
+
+}
+
+.check_agree{
+    font-size: 1em;
+    position: absolute;
+    left:70px;
+    top:210px;
+}
+
+.name_body{
+    font-family: 'Poppins'; 
+    font-weight: 10;
+    font-size:4.5em;
+    position: absolute;
+    left:760px;
+    top:70px;
+    text-shadow: 100px 100px 50px  rgba(0, 0, 0, 0.2);
+    
+}
+
+
+.glav{
+    position: absolute;
+    width: 1882px;
+    height: 220px;
+    top:-10px;
+    left:-10px;
+    background-color: #3b5998;
+    color: #3b5998;
+}
+
+.terms{
+    font-family: 'Poppins'; 
+    font-weight: 10;
+    font-size:0.9em;
+    position: absolute;
+    left:320px;
+    top:210px;
+
+}
+.term{
+    text-decoration: none;
+    color: #3b5998;
+}
+
+.map{
+    font-family: 'Poppins'; 
+    text-decoration: none;
+    color: black;
+}
